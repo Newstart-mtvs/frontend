@@ -69,19 +69,22 @@ $(document).ready(function(){
   $("#img1").show();
   $("#img2").hide();
   $("#img3").hide();
+  $("#login").hide();
 
   $("#img1").click(function(){
     $("#img1").hide();
     $("#img2").show();
     $("#img3").hide();
+    $("#login").hide();
   });
 
   $("#img2").click(function(){
     $("#img1").hide();
     $("#img2").hide();
     $("#img3").show();
-
+    $("#login").show();
   });
+
 
 });
 
