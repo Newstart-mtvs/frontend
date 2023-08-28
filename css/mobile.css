@@ -48,8 +48,9 @@ body{
 }
 
 nav ul{
-    position:relative;
-    right: -100%;
+    /* position:relative;
+    right: -100%; */
+    display: none;
 }
 
 section{
