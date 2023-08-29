@@ -32,6 +32,10 @@ body{
     display: none;
 }
 
+.s3 .my3, .arrow3{
+    display: none;
+}
+
 .s3{
     position: relative;
     font-family: 'Gowun dodum';
