@@ -116,3 +116,11 @@ $(document).ready(function(){
 
 });
 
+$(document).ready(function(){
+  $("#2").hide();
+  $("#gogo").click(function(){
+    $("#2").fadeIn();
+    $("#1").hide();
+  })
+
+});
