@@ -266,7 +266,7 @@ section{
 
 .s4 .arrow4{
     width: 50px;
-    position: absolute;
+    position: absolute;   
     left:50%;
     top: 78%;
     transform: translate(-50%, -50%);
