@@ -231,7 +231,7 @@ section{
 .s3 .my3{
 
     /* transform: translate(-50%, -40%); */
-    font-size: 55px;
+    font-size: 50px;
 
 }
 
@@ -251,6 +251,7 @@ section{
 }
 
 .s4 .my4{
+    font-size: 55px;
     font-family: 'GongGothicMedium';
     text-align: center;
     position: absolute;
@@ -302,8 +303,10 @@ button:hover{
 }
 
 .s5 img{
-    margin-top: 70px;
+    margin-top: 50px;
 }
+
+/* dddddd */
 
 
 
