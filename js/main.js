@@ -124,3 +124,10 @@ $(document).ready(function(){
   })
 
 });
+
+// $(document).ready(function(){
+//   $("#3").hide();
+// $("#2").click(function(){
+//   $("#3").fadeIn();
+// });
+// });
