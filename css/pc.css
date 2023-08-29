@@ -164,7 +164,7 @@ section{
 
 
 /*---------------s1 끝-------------------*/
-/**/
+
 
 /*---------------s2 시작-------------------*/
 .my2{
@@ -188,7 +188,6 @@ section{
     animation-fill-mode: forwards;
     opacity: 0;
     transform: translateY(40px);
-    /* margin-top: 5px; */
 }
 
 .my2 .txt2{
@@ -228,15 +227,14 @@ section{
     motion 0.6s linear 0s infinite alternate; 
 }
 
+
+
+/*---------------s3 시작-------------------*/
 .s3 .my3{
-
-    /* transform: translate(-50%, -40%); */
     font-size: 50px;
-
 }
 
 .s3 .egg img{
-
     width: 300px;
 }
 
@@ -250,6 +248,9 @@ section{
     motion 0.6s linear 0s infinite alternate; 
 }
 
+
+
+/*---------------s4 시작-------------------*/
 .s4 .my4{
     font-size: 55px;
     font-family: 'GongGothicMedium';
@@ -278,6 +279,9 @@ section{
     animation:
     motion 0.6s linear 0s infinite alternate; 
 }
+
+
+/*---------------s5 시작-------------------*/
 .s5{
     position: relative;
 }
@@ -305,10 +309,6 @@ button:hover{
 .s5 img{
     margin-top: 50px;
 }
-
-/* dddddd */
-
-
 
 footer{
     width: 100%;
